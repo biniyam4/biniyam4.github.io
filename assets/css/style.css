@@ -15,8 +15,13 @@ body {
   font-family:Arial, Helvetica, sans-serif;
 }
 .bu{
-  border-radius: 20px;
-  
+  border-radius: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-weight: bold;
+  padding-top: 10;
+  padding-bottom: 10;
+
 }
 ul{
   text-decoration: none;
